@@ -11,7 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
-  }
-  
-
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreenivas7463/simple-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Sreenivas7463/simple-app/issues"
+  },
+  "homepage": "https://github.com/Sreenivas7463/simple-app#readme"
 }
