@@ -10,9 +10,9 @@
   "author": "Sreenivas",
   "license": "ISC",
   "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
     "express": "^4.17.3"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sreenivas7463/simple-app.git"
